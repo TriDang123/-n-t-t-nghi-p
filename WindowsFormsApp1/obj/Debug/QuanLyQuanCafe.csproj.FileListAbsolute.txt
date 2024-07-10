@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ACER\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ACER\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ACER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fLogin.resources
+C:\Users\ACER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ACER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ACER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ACER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fTableManager.resources
+C:\Users\ACER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAccountProfile.resources
+C:\Users\ACER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAdmin.resources
