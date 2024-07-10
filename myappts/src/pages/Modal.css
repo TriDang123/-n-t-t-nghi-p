@@ -1,0 +1,46 @@
+.modal-content {
+    display: flex;
+    gap: 20px;
+    background-color: #fef8e6;
+    padding: 20px;
+  }
+.custom-modal-title {
+    margin-left: 10px;
+    font-size: 22px;
+    color: #3c2a0e;
+}
+  
+  .modal-content img {
+    max-width: 60%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 10px;
+  }
+  .modal-content .text-content {
+    display: flex;
+    flex-direction: column;
+  }
+  .price_item{
+    color: #9c4a4a99;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  .modal-content p {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .modal-content button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #c8070f;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 47px;
+  }
+  
+  .modal-content button:hover {
+    background-color: #e43238;
+  }
